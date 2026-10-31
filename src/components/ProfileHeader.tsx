@@ -10,8 +10,8 @@ export default function ProfileHeader({ name, bio, photo }: Props) {
           <Image
             src={photo}
             alt={`${name} 프로필 사진`}
-            width={112}
-            height={112}
+            width={150}
+            height={150}
             className="h-full w-full object-cover"
             priority
           />

@@ -6,10 +6,9 @@ export type LinkItem = {
 
 // 더미 값입니다. 실제 내용으로 교체하세요.
 export const profile = {
-  name: "조영붕",
+  name: "노바리온",
   bio: "1억 매출이 목표인 쿠팡셀러",
-  // 실제 사진은 public/ 아래에 넣고 경로를 바꾸세요. 예: "/profile.jpg"
-  photo: "/profile-dummy.svg",
+  photo: "https://placehold.co/150x150/orange/white.png",
 };
 
 // 더미 링크입니다. id는 클릭 수 집계의 키이므로, 운영 시작 후에는 바꾸지 마세요.
