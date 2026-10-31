@@ -6,8 +6,8 @@ export type LinkItem = {
 
 // 더미 값입니다. 실제 내용으로 교체하세요.
 export const profile = {
-  name: "홍길동",
-  bio: "여기에 한 줄 소개가 들어갑니다",
+  name: "조영붕",
+  bio: "1억 매출이 목표인 쿠팡셀러",
   // 실제 사진은 public/ 아래에 넣고 경로를 바꾸세요. 예: "/profile.jpg"
   photo: "/profile-dummy.svg",
 };
